@@ -1,4 +1,4 @@
-The aim of this project is for us to create our own shell, having as our reference how bash does things. 
+The aim of this project is for us to create our own shell, taking as reference bash. 
 
 [README_MINISHELL.pdf](https://github.com/Alvicina/MINISHELL/files/15310207/README_MINISHELL.pdf)
 
